@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bio-Cellucidate
-version:            0.02
+version:            0.03
 abstract:           Perl library for cellucidate.com
 author:
     - Brian Kaney <brian@vermonster.com>
